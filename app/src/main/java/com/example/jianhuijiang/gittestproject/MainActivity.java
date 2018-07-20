@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void method() {
         //
-
+        Toast.makeText(this, "Thank you", Toast.LENGTH_SHORT).show();
 
         ///
     }
