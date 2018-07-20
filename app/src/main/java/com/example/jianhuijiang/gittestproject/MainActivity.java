@@ -18,4 +18,12 @@ public class MainActivity extends AppCompatActivity {
 
         Toast.makeText(this, "Hahaha", Toast.LENGTH_SHORT).show();
     }
+
+    public void method() {
+        //
+        Toast.makeText(this, "Thank you", Toast.LENGTH_SHORT).show();
+
+        ///
+
+    }
 }
